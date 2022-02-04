@@ -1,0 +1,28 @@
+
+.navbar {
+    background-color: wheat;
+    color: black;
+}
+
+.quem-somos{
+    background-color: antiquewhite;
+    color: black;
+}
+
+.margin{
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.parceiros{
+    background-color: rgba(223, 193, 236, 0.842);
+}
+
+.serviços{
+    background-color: bisque;
+}
+
+.bg-footer{
+    background-color: black;
+    color: white;
+}
